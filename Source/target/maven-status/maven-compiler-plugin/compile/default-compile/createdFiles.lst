@@ -1,0 +1,16 @@
+mvc\POJO\Books.class
+mvc\Model\BookDTO.class
+mvc\POJO\Book.class
+mvc\View\ViewController.class
+mvc\POJO\Users.class
+mvc\POJO\User.class
+mvc\POJO\helper\IdAdapter.class
+mvc\Model\TransactionDTO.class
+mvc\Controller\TransactionController.class
+mvc\Model\UserDTO.class
+mvc\Controller\BookController.class
+mvc\Controller\UserController.class
+mvc\CSV\CsvFileWriter.class
+mvc\POJO\Transaction.class
+mvc\Connection\ConnSQL.class
+mvc\POJO\helper\WrapperBookUser.class
